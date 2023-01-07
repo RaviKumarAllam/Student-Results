@@ -39,6 +39,10 @@ h1{
     font-size: 22px;
     color:black;
 }
+image.round img {
+    border-radius: 100%;
+    height: 80px;
+}
 .login-box p{
     margin: 0;
     padding: 0;
