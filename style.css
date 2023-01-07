@@ -39,7 +39,7 @@ h1{
     font-size: 22px;
     color:black;
 }
-image.round img {
+.image.round img {
     border-radius: 100%;
     height: 80px;
 }
